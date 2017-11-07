@@ -369,10 +369,9 @@
   //#define  DEFAULT_Kd 440
 
   // Infitary M508
-  #define  DEFAULT_Kp 13.51
-  #define  DEFAULT_Ki 0.50
-  #define  DEFAULT_Kd 92.12
-
+  #define  DEFAULT_Kp 19.66
+  #define  DEFAULT_Ki 1.03
+  #define  DEFAULT_Kd 94.24
 #endif // PIDTEMP
 
 //===========================================================================
